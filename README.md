@@ -3,7 +3,7 @@
 
 <!-- shields -->
 <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/hello-im_here-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-3.12-blue">
 </p>
 <!-- shields -->
 
