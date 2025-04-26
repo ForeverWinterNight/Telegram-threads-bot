@@ -17,7 +17,9 @@
 
 ### 💾 Installation:
 <h2>⚙️ Установка</h2>
+
 ```sh
+
 sudo apt update
 
 sudo apt upgrade
